@@ -4,6 +4,8 @@ numpy
 pymongo
 Certifi
 pymongo[srv]==3.6
+scikit-learn
+django==3.0
 
 
 
