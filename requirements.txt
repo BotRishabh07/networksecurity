@@ -1,11 +1,12 @@
 python-dotenv
 pandas
 numpy
-pymongo
 Certifi
-pymongo[srv]==3.6
+pymongo[srv]==4.11.3
 scikit-learn
 django==3.0
+dill
+pyaml
 
 
 
