@@ -7,6 +7,7 @@ scikit-learn
 django==3.0
 dill
 pyaml
+mlflow
 
 
 
