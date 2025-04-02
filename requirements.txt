@@ -8,6 +8,8 @@ django==3.0
 dill
 pyaml
 mlflow
+fastapi
+uvicorn
 
 
 
