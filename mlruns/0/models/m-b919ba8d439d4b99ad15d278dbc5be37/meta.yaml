@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/risha/OneDrive/Desktop/network%20security/mlruns/0/models/m-b919ba8d439d4b99ad15d278dbc5be37/artifacts
+creation_timestamp: 1749908186614
+experiment_id: '0'
+last_updated_timestamp: 1749908194008
+model_id: m-b919ba8d439d4b99ad15d278dbc5be37
+model_type: null
+name: model
+source_run_id: fd8374dd22da43039dec79c2960d9691
+status: 2
+status_message: null

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/risha/OneDrive/Desktop/network%20security/mlruns/0/bbaac71655a64d28a3fe147829d11263/artifacts
+end_time: 1749905375433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbaac71655a64d28a3fe147829d11263
+run_name: gaudy-crab-642
+run_uuid: bbaac71655a64d28a3fe147829d11263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749905367145
+status: 3
+tags: []
+user_id: risha
